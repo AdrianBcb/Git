@@ -10,6 +10,7 @@ public class git_práctica {
 		String actionString = io.nextLine();
 		if (actionString.equals("imprimir")) {
 			imprimir();
+			System.out.println("Hasta aquí el código xd");
 				}
 
 	}
